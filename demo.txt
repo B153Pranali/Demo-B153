@@ -6,9 +6,7 @@ public void m1()
 System.out.println("----- start");
 System.out.println("hello pranali");
 
-System.out.println("m1 start");
 System.out.println("Hello Yogeshwari");
-
 
 System.out.println("m1 end");
 }
